@@ -13,7 +13,7 @@ title                    : "Dayeon Kang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://https://dayeonkang99.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://dayeonkang99.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DayeonKang99/DayeonKang99.github.io"
 
