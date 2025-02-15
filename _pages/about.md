@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Manning College of Information & Computer Sciences at University of Massachusetts Amherst, advised by [Amir Houmansadr](https://people.cs.umass.edu/~amir/) and co-advised by [Pubali Datta](https://people.cs.umass.edu/~pdatta/).
+I am a PhD student in Computer Sciences at University of Massachusetts Amherst, advised by [Prof. Amir Houmansadr](https://people.cs.umass.edu/~amir/) and co-advised by [Prof. Pubali Datta](https://people.cs.umass.edu/~pdatta/).
 
 I am interested in the intersection of security, privacy, network systems, cloud systems, and machine learning. This is related to the following areas: 1) Mitigating security or privacy challenges and defects of network systems in cloud settings. 2) How machine learning could support network and cloud systems using network data.
 
