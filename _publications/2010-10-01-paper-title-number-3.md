@@ -1,8 +1,7 @@
 ---
-title: "Grape Grade Discrimination System using Step-by-step Deep Learning Model and Drone Path Planning Algorithm"
+title: "CollageMap: Tailoring Generative Fingerprint Map via Obstacle-Aware Adaptation for Site-Survey-Free Indoor Localization"
 collection: publications
-category: manuscripts
-authors: 'Dayeon Kang, J. Kim, D. Kim, H. Kim, and K. Chae'
-venue: ”Korea Computer Congress'22"
-paperurl: 'https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11123682'
+category: conferences
+authors: 'Y. You, J. Yoon, Dayeon Kang, J. Kim, and H. Lee'
+venue: "IEEE PerCom'25"
 ---
