@@ -26,7 +26,7 @@ author:
   name             : "Dayeon (Diane) Kang"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  #location         : "Amherst, Massachusetts"
+  location         : #"Amherst, Massachusetts"
   employer         : "UMass Amherst"
   uri              : # URL
   email            : "dayeonkang@umass.edu" 
