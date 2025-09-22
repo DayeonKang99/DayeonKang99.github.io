@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Computer and Network Security"
-collection: teaching
+collection: talks&teaching
 type: "Grad course TA"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "UMass Amherst"

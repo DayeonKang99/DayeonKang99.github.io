@@ -250,7 +250,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: talks&teaching
     values:
       layout: single
       author_profile: true

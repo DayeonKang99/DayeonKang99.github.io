@@ -1,6 +1,6 @@
 ---
 title: "System Defense and Test"
-collection: teaching
+collection: talks&teaching
 type: "Grad course TA"
 #permalink: /teaching/2015-spring-teaching-1
 venue: "UMass Amherst"
