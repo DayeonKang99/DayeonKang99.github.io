@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Talks
-* **Guest Talk |** Women in Cybersecurity (WiCyS) at Umass, Mar. 2025
+* **Guest Talk:** Women in Cybersecurity (WiCyS) at Umass, Mar. 2025
     - Journey to Security Researcher 
-* **Guest Lecture |** UMass COMPSCI 560: Introduction to Computer and Network Security, Dec. 2024
+* **Guest Lecture:** UMass COMPSCI 560 Introduction to Computer and Network Security, Dec. 2024
     - Break the anonymity of Tor network: What is traffic analysis? 
 
 ## Teaching
