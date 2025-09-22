@@ -22,7 +22,7 @@ I am interested in the intersection of security, privacy, network systems, cloud
 
 News
 ---
-* **June 2025**: Our paper "I’ll Shake Your Hand: What Happens After DNS Poisoning" is accepted at FOCI 2025
+* **June 2025**: Our paper "I’ll Shake Your Hand: What Happens After DNS Poisoning" is accepted at FOCI'25
 * **December 2024**: Our paper "CollageMap: Tailoring Generative Fingerprint Map via Obstacle-Aware Adaptation for Site-Survey-Free Indoor Localization" is accepted at IEEE PerCom'25
 * **December 2024**: Our paper "CAMPUSRSSI: Real-World Wi-Fi RSSI Measurements for Indoor Localization" is accepted at IEEE PerCom Workshops'25
 * **October 2024**: Our paper “GAN-Loc: Empowering Indoor Localization for Unknown Areas via Generative Fingerprint Map” is accepted at IEEE SECON'24
