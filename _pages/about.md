@@ -9,19 +9,20 @@ redirect_from:
 
 I am a PhD student in Computer Sciences at University of Massachusetts Amherst, advised by [Prof. Amir Houmansadr](https://people.cs.umass.edu/~amir/) and co-advised by [Prof. Pubali Datta](https://people.cs.umass.edu/~pdatta/).
 
-I am interested in the intersection of security, privacy, network systems, cloud systems, and machine learning. This is related to the following areas: 1) Mitigating security or privacy challenges and defects of network systems in cloud settings. 2) Identifying privacy issues of machine learning in cloud systems using network data.
+I am interested in the intersection of computer networking, distributed systems, machine learning, and security and privacy. This is related to the following areas: 1) Safe and reliable distributed and serverless systems in the aspect of computer networking. 2) How scalable cloud systems support machine learning without data leakage.
 
 ### Research Interest
-* Security and Privacy on Computer Networks
-* Network and Cloud Systems
+* Security and Privacy on Cloud Systems
+* Network and Distributed Systems
 * Serverless Cloud
-* Machine Learning
+* Machine Learning (AI-agent, recently)
 <br>
 <br>
 
 
 News
 ---
+* **February 2026**: My first first-author paper "CensorLess: Cost-Efficient Censorship Circumvention Through Serverless Cloud Functions" is accepted at PETS'26
 * **June 2025**: Our paper "I’ll Shake Your Hand: What Happens After DNS Poisoning" is accepted at FOCI'25
 * **December 2024**: Our paper "CollageMap: Tailoring Generative Fingerprint Map via Obstacle-Aware Adaptation for Site-Survey-Free Indoor Localization" is accepted at IEEE PerCom'25
 * **December 2024**: Our paper "CAMPUSRSSI: Real-World Wi-Fi RSSI Measurements for Indoor Localization" is accepted at IEEE PerCom Workshops'25

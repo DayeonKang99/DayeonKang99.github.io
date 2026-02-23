@@ -12,7 +12,8 @@ author_profile: true
     - Break the anonymity of Tor network: What is traffic analysis? 
 
 ## Teaching
-* **System Defense and Test (COMPSCI 561)** at UMass Amherst, TA in Spring 2024, Spring 2025
+* **Introduction to Computer and Network Security (COMPSCI 360)** at UMass Amherst, TA in Fall 2025
+* **System Defense and Test (COMPSCI 561)** at UMass Amherst, TA in Spring 2024, Spring 2025, Spring 2026
 * **Introduction to Computer and Network Security (COMPSCI 560)** at UMass Amherst, TA in Fall 2024
 * **Computer Programming & Lab (36339-05)** at Ewha WU, Peer Instructor in Spring 2022
 * **Computer Architecture (20493-01)** at Ewha WU, Peer Instructor in Fall 2021, Fall 2022
