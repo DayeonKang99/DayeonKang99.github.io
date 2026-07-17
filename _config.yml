@@ -22,7 +22,7 @@ repository               : "DayeonKang99/DayeonKang99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.HEIC"
+  avatar           : "profile.png"
   name             : "Dayeon (Diane) Kang"
   pronouns         : # example: "she/her"  
   bio              : ""
