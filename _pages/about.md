@@ -136,14 +136,9 @@ redirect_from:
 
 I am a PhD student in Computer Sciences at University of Massachusetts Amherst, advised by [Prof. Amir Houmansadr](https://people.cs.umass.edu/~amir/) and co-advised by [Prof. Pubali Datta](https://people.cs.umass.edu/~pdatta/).
 
-I am interested in the intersection of computer networking, distributed systems, machine learning, and security and privacy. This is related to the following areas: 1) Safe and reliable distributed and serverless systems in the aspect of computer networking. 2) How scalable cloud systems support machine learning without data leakage.
+I am interested in the intersection of **computer networking**, **cloud systems**, and **security and privacy**, with a particular focus on **autonomous AI agents**. This is related to the following areas: 1) Analyzing security risks that emerges as cloud systems scale, and how AI agents can be fingerprinted and attributed through network-layer signals. 2) Designing privacy-preserving AI agents that leverage cloud and network infrastructure.
 
-### Research Interest
-
-- Security and Privacy on Cloud Systems
-- Network and Distributed Systems
-- Serverless Cloud
-- Machine Learning (AI-agent, recently)
+Prior to starting my PhD studies, I received my bachelor’s degree from Ewha Womans University in South Korea, advised by [Prof. HyungJune Lee](https://inslab-ewha.weebly.com/).
 
 ## News
 
@@ -160,11 +155,18 @@ I am interested in the intersection of computer networking, distributed systems,
 <div class="pub-grid">
 
   <div class="pub-card">
+    <span class="pub-venue">preprint</span>
+    <p class="pub-title">Whose Agent Are You? Multi-Layer Fingerprinting and Attribution of Autonomous Web Agents</p>
+    <p class="pub-authors"><b>Dayeon Kang</b>, J.Jeong, J. Sheffey, P. Datta, and A. Houmansadr</p>
+    <div class="pub-links"><a class="pub-btn" href="https://arxiv.org/pdf/2606.20910" target="_blank">Paper</a></div>
+  </div> 
+
+  <div class="pub-card">
     <span class="pub-venue">PETS 2026</span>
     <p class="pub-title">CensorLess: Cost-Efficient Censorship Circumvention Through Serverless Cloud Functions</p>
     <p class="pub-authors"><b>Dayeon Kang</b>, J. Sheffey, M. Wu, P. Datta, and A. Houmansadr</p>
-    <div class="pub-links"><span class="pub-pending">Paper link coming soon</span></div>
-  </div>
+    <div class="pub-links"><a class="pub-btn" href="https://petsymposium.org/popets/2026/popets-2026-0096.pdf" target="_blank">Paper</a></div>
+  </div> 
 
   <div class="pub-card">
     <span class="pub-venue">FOCI 2025</span>
