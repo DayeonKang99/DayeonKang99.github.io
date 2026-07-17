@@ -93,7 +93,7 @@ redirect_from:
     font-style: italic;
   }
 
-  /* ---------- Talks & Teaching ---------- */
+  /* ---------- Academic Services ---------- */
   .tt-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -131,6 +131,10 @@ redirect_from:
     display: block;
     color: #718096;
     font-size: 0.92em;
+  }
+  
+    .author__avatar img {
+    border-radius: 12px;
   }
 </style>
 
