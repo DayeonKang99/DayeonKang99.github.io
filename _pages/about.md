@@ -146,6 +146,7 @@ Prior to starting my PhD studies, I received my bachelor’s degree from Ewha Wo
 
 ## News
 
+- **August 2026**: The paper "When Apps Outlive Vendors: Security Implications of IoT Abandonware," which I led, is accepted at CCS'26
 - **February 2026**: My first first-author paper "CensorLess: Cost-Efficient Censorship Circumvention Through Serverless Cloud Functions" is accepted at PETS'26
 - **June 2025**: Our paper "I'll Shake Your Hand: What Happens After DNS Poisoning" is accepted at FOCI'25
 - **December 2024**: Our paper "CollageMap: Tailoring Generative Fingerprint Map via Obstacle-Aware Adaptation for Site-Survey-Free Indoor Localization" is accepted at IEEE PerCom'25
