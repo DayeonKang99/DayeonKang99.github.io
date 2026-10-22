@@ -158,6 +158,12 @@ Prior to starting my PhD studies, I received my bachelor’s degree from Ewha Wo
 # Publications
 
 <div class="pub-grid">
+  <div class="pub-card">
+    <span class="pub-venue">CCS 2026</span>
+    <p class="pub-title">When Apps Outlive Vendors: Security Implications of IoT Abandonware</p>
+    <p class="pub-authors"><b>Dayeon Kang</b>, E. Yeboah-Duako, S. Thomas, and P. Datta</p>
+    <div class="pub-links"><a class="pub-btn" href="https://arxiv.org/pdf/2609.14798" target="_blank">Paper</a></div>
+  </div> 
 
   <div class="pub-card">
     <span class="pub-venue">preprint</span>
